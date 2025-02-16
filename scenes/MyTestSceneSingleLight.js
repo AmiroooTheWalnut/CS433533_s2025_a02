@@ -67,10 +67,10 @@
     },
     {
         "type":"billboards",
-        "UpperLeft": [ 20, 20 , 7], 
-        "LowerLeft": [20 , -20, 7], 
-        "UpperRight": [-20,20,7],
-        "filename": "yael.png"
+        "UpperLeft": [ 20, 20 , 8], 
+        "LowerLeft": [20 , -20, 8], 
+        "UpperRight": [-20,20,8],
+        "filename": "background.png"
     },
     {
         "type":"billboards",
